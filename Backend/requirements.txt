@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+fastapi-login
+python-multipart
+bcrypt
+exponent_server_sdk
+python-dotenv

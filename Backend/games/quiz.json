@@ -1,0 +1,80 @@
+{
+  "games": {
+    "1": [
+      {
+        "id": 1,
+        "question": "What is the term for a word that is similar in meaning to another word?",
+        "options": ["Antonym", "Synonym", "Homonym", "Acronym"],
+        "answer": "Synonym"
+      },
+      {
+        "id": 2,
+        "question": "What punctuation mark is used to indicate possession?",
+        "options": ["Comma", "Period", "Apostrophe", "Exclamation mark"],
+        "answer": "Apostrophe"
+      },
+      {
+        "id": 3,
+        "question": "What is the past tense of the verb 'to go'?",
+        "options": ["Gone", "Went", "Goed", "Goes"],
+        "answer": "Went"
+      },
+      {
+        "id": 4,
+        "question": "Which word is an antonym of 'ancient'?",
+        "options": ["Modern", "Old", "Rare", "Usual"],
+        "answer": "Modern"
+      },
+      {
+        "id": 5,
+        "question": "What is the plural form of the noun 'mouse'?",
+        "options": ["Mouses", "Mice", "Mousees", "Meese"],
+        "answer": "Mice"
+      },
+      {
+        "id": 6,
+        "question": "Which word describes a noun?",
+        "options": ["Verb", "Adverb", "Adjective", "Pronoun"],
+        "answer": "Adjective"
+      },
+      {
+        "id": 7,
+        "question": "What type of verb is 'will' in English grammar?",
+        "options": ["Action verb", "Linking verb", "Modal verb", "Helping verb"],
+        "answer": "Modal verb"
+      },
+      {
+        "id": 8,
+        "question": "Which of the following is a conjunction?",
+        "options": ["And", "He", "Very", "Quickly"],
+        "answer": "And"
+      },
+      {
+        "id": 9,
+        "question": "What is the main part of a sentence that contains the verb and provides information about the subject?",
+        "options": ["Predicate", "Preposition", "Conjunction", "Interjection"],
+        "answer": "Predicate"
+      },
+      {
+        "id": 10,
+        "question": "Which term refers to the base form of a verb?",
+        "options": ["Past participle", "Infinitive", "Gerund", "Preterite"],
+        "answer": "Infinitive"
+      }
+    ],
+    "2": [
+      {
+        "id": 11,
+        "question": "What is the chemical symbol for water?",
+        "options": ["H2O", "CO2", "O2", "NaCl"],
+        "answer": "H2O"
+      },
+      {
+        "id": 12,
+        "question": "Who wrote 'Hamlet'?",
+        "options": ["William Shakespeare", "Charles Dickens", "Leo Tolstoy", "Mark Twain"],
+        "answer": "William Shakespeare"
+      }
+    ]
+  }
+}
